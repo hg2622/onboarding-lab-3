@@ -1,3 +1,5 @@
 # Week 3 Lab: Verification
 
-Fill out this readme as required by lab guidance
+All test has passed
+
+Some key probelms I encountered are in the notebook
